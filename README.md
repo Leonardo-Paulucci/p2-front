@@ -230,7 +230,9 @@ O build deve concluir sem erros de TypeScript.
 - [ ] O README contém o link do GitHub
 - [ ] O projeto possui commits no GitHub
 
+
 ## Entrega no AVA
+
 
 1. Crie um repositório novo no GitHub para o CRM.
 2. Faça commits durante o desenvolvimento.

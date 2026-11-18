@@ -87,6 +87,10 @@ Abra o endereço informado pelo Vite, normalmente:
 
 ```text
 http://127.0.0.1:5173
+
+ou
+
+http://localhost:5173/
 ```
 
 ## Conta de teste
